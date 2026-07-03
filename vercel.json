@@ -1,5 +1,7 @@
 {
   "functions": {
-    "api/claude.js": {}
+    "claude.js": {
+      "maxDuration": 30
+    }
   }
 }
